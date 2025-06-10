@@ -4,7 +4,7 @@
   
   **Software Developer | Java & JavaScript Enthusiast**
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=frncsryddlbg&color=0891b2&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://profile-counter.glitch.me/frncsryddlbg/count.svg)
   
 </div>
 
