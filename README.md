@@ -79,3 +79,8 @@
 <div align="center">
   <sub>⚡ Powered by passion for clean code and innovative solutions</sub>
 </div>
+
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=frncsryddlbg&theme=darkhub&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
