@@ -66,12 +66,19 @@ Daily Routine:
 ### ⚛️ Frontend Core
 | Technology | Version | Purpose |
 |:---:|:---:|:---|
-| ![React](https://img.shields.io/badge/React-18.2-61DAFB?style=flat-square&logo=react&logoColor=white) | 18.2 | UI Framework |
+| ![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=white) | 19.2 | UI Framework |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript&logoColor=white) | 5.0 | Type Safety |
 | ![Vite](https://img.shields.io/badge/Vite-7.1-646CFF?style=flat-square&logo=vite&logoColor=white) | 7.1 | Build Tool |
-| ![MUI](https://img.shields.io/badge/MUI-7.1-007FFF?style=flat-square&logo=mui&logoColor=white) | 7.1 | Component Library |
-| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.15-FF0055?style=flat-square&logo=framer&logoColor=white) | 12.15 | Animations |
+| ![MUI](https://img.shields.io/badge/MUI-7.3-007FFF?style=flat-square&logo=mui&logoColor=white) | 7.3 | Component Library |
+| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-latest-FF0055?style=flat-square&logo=framer&logoColor=white) | latest | Animations |
 | ![TailwindCSS](https://img.shields.io/badge/Tailwind-3.3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | 3.3 | Utility CSS |
+
+### 🌐 Multi-Framework Architecture
+| Technology | Version | Purpose |
+|:---:|:---:|:---|
+| ![Vue](https://img.shields.io/badge/Vue.js-3.5-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | 3.5 | Form Components |
+| ![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=flat-square&logo=angular&logoColor=white) | 21 | Auth Landing |
+| ![SolidJS](https://img.shields.io/badge/SolidJS-1.9-2C4F7C?style=flat-square&logo=solid&logoColor=white) | 1.9 | Pre-landing Page |
 
 ### 🧠 AI & Machine Learning
 | Technology | Purpose |
@@ -100,7 +107,7 @@ Daily Routine:
 ### 🗺️ Maps & Visualization
 | Technology | Purpose |
 |:---:|:---|
-| ![Three.js](https://img.shields.io/badge/Three.js-0.158-000000?style=flat-square&logo=threedotjs&logoColor=white) | 3D Graphics |
+| ![Three.js](https://img.shields.io/badge/Three.js-latest-000000?style=flat-square&logo=threedotjs&logoColor=white) | 3D Graphics |
 | ![MapLibre](https://img.shields.io/badge/MapLibre-2.4-396CB2?style=flat-square&logo=maplibre&logoColor=white) | Maps |
 | ![Leaflet](https://img.shields.io/badge/Leaflet-1.9-199900?style=flat-square&logo=leaflet&logoColor=white) | Interactive Maps |
 | ![Chart.js](https://img.shields.io/badge/Chart.js-4.5-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) | Data Viz |
