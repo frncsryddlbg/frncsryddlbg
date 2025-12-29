@@ -79,6 +79,7 @@ Daily Routine:
 | ![Vue](https://img.shields.io/badge/Vue.js-3.5-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | 3.5 | Form Components |
 | ![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=flat-square&logo=angular&logoColor=white) | 21 | Auth Landing |
 | ![SolidJS](https://img.shields.io/badge/SolidJS-1.9-2C4F7C?style=flat-square&logo=solid&logoColor=white) | 1.9 | Pre-landing Page |
+| ![Haskell](https://img.shields.io/badge/Haskell-GHC-5D4F85?style=flat-square&logo=haskell&logoColor=white) | GHC | Anti-Spam Backend |
 
 ### 🧠 AI & Machine Learning
 | Technology | Purpose |
